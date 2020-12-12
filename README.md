@@ -1,4 +1,4 @@
-<img width="auto" src="https://imgur.com/a/Zr7Tn6V">
+<img width="auto" src="https://i.pinimg.com/originals/85/33/a6/8533a63a6dc9f945ba4a381c675ff6fa.png">
 
 
 # Lucas Ricci
