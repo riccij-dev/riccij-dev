@@ -3,9 +3,9 @@
 <img src="https://avatars3.githubusercontent.com/u/62891523?s=400&v=4"
      alt=auto/>
 
-Sempre achei incrivel quantas coisas eu consigo fazer com programação, foi por isso que no inicio desse ano de 2020 decidi aprender a como me tornar um bom programador, agora estou nessa jornada, buscando aprender cada vez mais.
+I allways found amazing how many things I can do with programming, thats because in the start of this 2020 year decided to learn how to become a good programmer, now I am in this journey, seeking to learn more and more.
 :computer:
 
- :rocket: &nbsp;Atualmente não estou trabalhando :handbag:
- <br/> :smile: &nbsp;Atualmente estou aprendendo >> Python
- <br/> 💬  &nbsp;Sobre mim: Curto tecnologia, videogame e star wars
+ :rocket: &nbsp;Currently I am not working :handbag:
+ <br/> :smile: &nbsp;I am learning >> Python
+ <br/> 💬  &nbsp;About me: I enjoy technology, videogames and Star Wars
